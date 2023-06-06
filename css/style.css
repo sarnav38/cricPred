@@ -1,0 +1,110 @@
+p{
+font-weight: bolder;
+color: #0ceb91;
+}
+a{
+visibility: hidden;
+}
+
+/* page section class */
+.css-uf99v8{
+background-color: teal;
+}
+ /* section div class*/
+.css-1y4p8pa{
+padding-top: 4rem;
+}
+
+/*  select box label class*/
+.css-1yy6isu{
+font-family: cursive;
+}
+
+/*  select box font class*/
+.st-c7{
+font-family: cursive;
+}
+
+/* Predict button class*/
+.css-5uatcg{
+background-color: honeydew;
+border: 2px solid rgb(14, 17, 23);
+margin-left: 40%;
+border-radius: 0.75rem;
+margin-top: 0em
+}
+
+/* Predict button class*/
+.css-5uatcg p{
+font-weight: bolder;
+color: black
+}
+
+/* Predict button class*/
+.css-5uatcg:hover{
+background-color: #c35575;
+border: 2px solid rgb(195 189 43);
+}
+
+/* Predict button class*/
+.css-5uatcg p:hover{
+color: white
+}
+
+/* select box class*/
+.st-bx {
+    background-color: rgb(51 122 171);
+}
+/* select box class*/
+.st-bw {
+    border-bottom-color: rgb(245 98 223);
+}
+/* select box class*/
+.st-bv {
+    border-top-color: rgb(245 98 223);
+}
+/* select box class*/
+.st-bu {
+    border-right-color: rgb(245 98 223);
+}
+/* select box class*/
+.st-bt {
+    border-left-color: rgb(245 98 223);
+}
+
+/* select box  button class*/
+.st-d0{
+background-color: tomato;
+}
+
+/* Number Input button class*/
+.css-15jfpy5{
+background-color: rgb(78 91 117);
+}
+
+/* title class*/
+.css-10trblm{
+color: #e5db71;
+}
+
+/* title 1 class*/
+#select-cricket-predation-model{
+padding-bottom: 0rem;
+padding-top: 0rem;
+}
+
+/* title 2 class*/
+#ipl-1st-innings-prediction{
+padding-top:0.25rem;
+}
+
+/* header button class*/
+.css-1rs6os{
+visibility: hidden;
+}
+
+/* footer class*/
+.css-cio0dv{
+visibility: hidden;
+}
+

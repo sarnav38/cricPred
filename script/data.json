@@ -1,0 +1,41 @@
+{
+  "ipl_teams":
+  ["Chennai Super Kings", "Kolkata Knight Riders",
+   "Mumbai Indians", "Sunrisers Hyderabad", "Delhi Capitals",
+   "Punjab Kings", "Royal Challengers Bangalore", "Rajasthan Royals",
+   "Gujarat Titans", "Lucknow Super Giants"
+  ],
+  "ipl_city": [
+    "Hyderabad", "Bengaluru", "Mumbai", "Indore", "Kolkata", "Bangalore",
+    "Delhi", "Chandigarh", "Chennai", "Jaipur", "Pune", "Visakhapatnam", "Abu Dhabi",
+    "Ahmedabad", "Sharjah", "Dubai", "Navi Mumbai", "Lucknow", "Guwahati", "Cape Town",
+    "Port Elizabeth", "Durban", "Centurion", "East London", "Johannesburg", "Kimberley",
+    "Bloemfontein", "Cuttack", "Nagpur", "Dharamsala", "Raipur", "Ranchi"
+  ],
+  "t20_teams": [
+    "New Zealand", "Sri Lanka", "Ireland", "West Indies",
+    "South Africa", "India", "England", "Bangladesh", "Pakistan",
+    "Australia", "Scotland", "Zimbabwe", "Afghanistan", "Netherlands"
+  ],
+  "t20_city": ["Mount Maunganui", "Mumbai", "Murcia", "Antigua", "Potchefstroom", 
+    "Southampton", "Birmingham", "Nottingham", "Bristol", "Cardiff", "Dhaka", 
+    "East London", "Jaipur", "Ranchi", "Kolkata", "Lucknow", "Dharamsala", "Delhi", 
+    "Johannesburg", "Cuttack", "Visakhapatnam", "Rajkot", "Cape Town", "Auckland", 
+    "Taunton", "Chelmsford", "Edinburgh", "Karachi", "Lahore", "Queenstown", 
+    "Kuala Lumpur", "Hobart", "Geelong", "Sydney", "Perth", "Melbourne", "Brisbane", 
+    "Adelaide", "Colombo", "Worcester", "Derby", "Chester-le-Street", "Dublin", 
+    "Belfast", "Kandy", "The Hague", "New Plymouth", "Harare", "Hamilton", "Roseau", 
+    "Providence", "Carrara", "Canberra", "Bready", "Tarouba", "Basseterre", "Lauderhill",
+    "Kingston", "Dambulla", "Rotterdam", "Deventer", "Amstelveen", "Bulawayo", "Christchurch",
+    "Kanpur", "Dunedin", "Dubai", "Sharjah", "Chandigarh", "Nagpur", "Hyderabad", "Thiruvananthapuram",
+    "Guwahati", "Indore", "Abu Dhabi", "Centurion", "North Sound", "Sylhet", "Bloemfontein",
+    "Paarl", "Gqeberha", "Bangalore", "Bridgetown", "Navi Mumbai", "Dehra Dun", "Pune", "Ahmedabad",
+    "Dehradun", "St Kitts", "Chattogram", "Greater Noida", "Wellington", "London", "Durban", "Utrecht",
+    "Manchester", "Nairobi", "Port Elizabeth", "Barbados", "Trinidad", "Victoria", "King City", "Guyana",
+    "St Lucia", "Kimberley", "Nelson", "Mirpur", "Hambantota", "Canterbury", "Northampton", "Hove",
+    "Chennai", "Loughborough", "St Vincent", "Chittagong", "Doha", "Jamaica", "Dominica", "Gold Coast",
+    "Bangkok", "Londonderry", "Grenada", "Dharmasala", "Mohali", "Khulna", "FTZ Sports Complex", "Gros Islet",
+    "Brighton", "Bengaluru", "Derry", "Al Amarat", "Pretoria", "Pietermaritzburg", "Benoni", "Napier",
+    "Dundee", "Arbroath", "Surat", "St George's", "Leeds", "Coolidge"
+  ]
+}
