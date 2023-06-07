@@ -6,7 +6,6 @@ from script import ipl_scorePred, ipl_winPred, t20_scorePred, t20_winPred
 import bz2
 
 img = Image.open('./favicon_io/favicon.ico')
-er = Image.open('./favicon_io/error.ico')
 
 st.set_page_config(
     page_title="CricPred",
