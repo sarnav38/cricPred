@@ -38,4 +38,4 @@ def iplScorePred(model, data):
                                        crr, city, ball_left, last_five]])
             result = model.predict(df)
             result = result[0]
-            st.subheader(f"Predicted Score is : :blue[{int(result)}]")
+            st.subheader(f"{team_batting} Predicted Score : :blue[{int(result)}]")
