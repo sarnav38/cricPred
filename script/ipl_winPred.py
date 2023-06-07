@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-from PIL import Image
-
 
 def iplWinPred(model, data):
     col1, col2 = st.columns(2)
