@@ -5,11 +5,11 @@ Go to [Cricket Prediction](https://cricpred.streamlit.app/) web app. Enter match
 
 1. Select 1st Innings predition model input details and then click predict score to predict 1st innings score.
 
-![App Screenshot](https://github.com/sarnav38/cricPred/edit/main/assests/FIS.gif)
+![App Screenshot](https://github.com/sarnav38/cricPred/blob/main/assests/FIS.gif)
 
 2.  Select Winning Probability model input details and then click predict winner to get winning probability of both teams.
 
-![App Screenshot](https://github.com/sarnav38/cricPred/edit/main/assests/WTP.gif)
+![App Screenshot](https://github.com/sarnav38/cricPred/blob/main/assests/WTP.gif)
 
 
 ## Author
