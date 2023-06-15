@@ -3,13 +3,13 @@ Go to [Cricket Prediction](https://cricpred.streamlit.app/) web app. Enter match
 
 # Usage
 
-1. Select 1st Innings predition model input details and then click predict score to predict 1st innings score
+1. Select 1st Innings predition model input details and then click predict score to predict 1st innings score.
 
-![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sarnav38/cricPred/edit/main/assests/FIS.gif)
 
-2.  Select Winning Probability model input details and then click predict winner to get probability of both team of winning
+2.  Select Winning Probability model input details and then click predict winner to get winning probability of both teams.
 
-![App Screenshot](https://via.placeholder.com/400x50?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/sarnav38/cricPred/edit/main/assests/WTP.gif)
 
 
 ## Author
